@@ -3,6 +3,10 @@
 
 ![ex_screenshot](./img/image_1.jpg)
 
+## 동작 영상
+[![Video Label](https://img.youtube.com/vi/q0Ir53MH5J4/0.jpg)](https://youtu.be/q0Ir53MH5J4)
+
+
 ## WiringPi 패키지 설치
 <pre>
 <code>
